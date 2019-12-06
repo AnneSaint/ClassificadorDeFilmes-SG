@@ -1,4 +1,5 @@
 # Classificador De Filmes - Studio Ghibli
+# Classificador De Filmes - Studio Ghibli
 
 
 ## Amimações Japonesas
@@ -6,16 +7,15 @@
   A arte das animações japonesas são apreciadas e difundidas pelo mundo nas últimas décadas por diversas populações por volta do mundo.
   Dentre elas, as animações produzidas pelo Studio Ghibli  vem mostrando pelos seus longas metragens a beleza na simplicidade dos atos cotidianos e realidades fantasiosas construídos pela críticas a aspectos das sociedades de épocas passadas, atuais e futuras por analogias e alegorias.
   
- [ghibi](http://cinematecando.com.br/wp-content/uploads/2016/11/there-s-an-incredible-hidden-message-in-spirited-away-and-it-will-shock-you.jpg)
+ [ghibi](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjkzZa71KHmAhV7HrkGHf22A8oQjRx6BAgBEAQ&url=http://cinematecando.com.br/viagem-de-chihiro-vale-pena-assistir/&psig=AOvVaw34tfx4Vi45drYby0au_xDJ&ust=1575741818698698)
  
-Por isso, oa intuito do meu projeto é, por meio do programa QT Creator, criar um registro pessoal da lista de filmes do Stduio Ghibli que serão cadastrados dados como nome, nota, duração da animação, se foi assistido ou não e nome do avaliador.
+Por isso, o intuito do meu projeto é, por meio do programa QT Creator, criar um registro pessoal da lista de filmes do Stduio Ghibli que serão cadastrados dados como nome, nota, duração da animação, se foi assistido ou não e nome do avaliador.
 
 # Como funciona?
 
 Na tela inicial "Avaliação" você poderá selecionar o filme que for ser avaliado e preencher os dados sobre a nota para o filme, pelo gênero que o avaliador pensa ser mais apropriado para a animação selecionada, a quantidade de minutos assistidos de cada filme, se foi assistido por completo e o nome do avaliador da vez.
 
-
-
+telaInicial![enter image description here](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/Captura%20de%20Tela%20%28181%29.png)
 O usuário selecionará o nome da animação que deseja avaliar no primeiro bloco do projeto (comboBox):
 
 
@@ -39,10 +39,7 @@ Ao apertar o botão "Excluir", aparecerá uma caixa de diálogo pedindo a confir
 Outro recurso apresentado no projeto é a possibilidade de editar a tabela de filmes por _____
 
 
-
-No canto superior esquerdo da tela, o usuário terá em mãos dois recursos importantes do programa. Em cliquar em "Arquivo", terá duas opcções a serem selecionadas.
-Na aba "Salvar" será salvo os dados inseridos em um arquivo 
-Por fim, na aba "Carregar" o usuário pode carregar os dados salvos de outrora apenas selecionando o arquivo.
+No canto superior esquerdo da tela, o usuário terá em mãos dois recursos importantes do programa. Em cliquar em "Arquivo", terá duas opcções a serem selecionadas. Na aba "Salvar" será salvo os dados inseridos em um arquivo Por fim, na aba "Carregar" o usuário pode carregar os dados salvos de outrora apenas selecionando o arquivo.
 
 
 
@@ -51,6 +48,3 @@ Por fim, na aba "Carregar" o usuário pode carregar os dados salvos de outrora a
 Na segunda janela é nos apresentado a janela de "Estatísticas" que mostra os seguintes aspectos:
 -> Tempo gasto, em minutos, assistindo as animações;
 -> Quantidade de animações assistidas;
-
-
- 
