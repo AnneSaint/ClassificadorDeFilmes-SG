@@ -59,6 +59,7 @@ No canto superior esquerdo da tela, o usuário terá em mãos dois recursos impo
 # Estatísticas
 
 Na segunda janela é nos apresentado a janela de "Estatísticas" que mostra os seguintes aspectos:
+
 -> Tempo gasto, em minutos, assistindo as animações;
 -> Quantidade de animações assistidas;
 
