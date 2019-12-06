@@ -38,6 +38,12 @@ Outro recurso apresentado no projeto é a possibilidade de editar a tabela de fi
 
 
 
+No canto superior esquerdo da tela, o usuário terá em mãos dois recursos importantes do programa. Em cliquar em "Arquivo", terá duas opcções a serem selecionadas.
+Na aba "Salvar" será salvo os dados inseridos em um arquivo 
+Por fim, na aba "Carregar" o usuário pode carregar os dados salvos de outrora apenas selecionando o arquivo.
+
+
+
 # Estatísticas
 
 Na segunda janela é nos apresentado a janela de "Estatísticas" que mostra os seguintes aspectos:
