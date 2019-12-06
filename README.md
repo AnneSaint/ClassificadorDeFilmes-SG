@@ -6,7 +6,7 @@
   A arte das animações japonesas são apreciadas e difundidas pelo mundo nas últimas décadas por diversas populações por volta do mundo.
   Dentre elas, as animações produzidas pelo Studio Ghibli  vem mostrando pelos seus longas metragens a beleza na simplicidade dos atos cotidianos e realidades fantasiosas construídos pela críticas a aspectos das sociedades de épocas passadas, atuais e futuras por analogias e alegorias.
   
- [ghibi](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjkzZa71KHmAhV7HrkGHf22A8oQjRx6BAgBEAQ&url=http://cinematecando.com.br/viagem-de-chihiro-vale-pena-assistir/&psig=AOvVaw34tfx4Vi45drYby0au_xDJ&ust=1575741818698698)
+ [ghibi](http://cinematecando.com.br/wp-content/uploads/2016/11/there-s-an-incredible-hidden-message-in-spirited-away-and-it-will-shock-you.jpg)
  
 Por isso, o intuito do meu projeto é, por meio do programa QT Creator, criar um registro pessoal da lista de filmes do Stduio Ghibli que serão cadastrados dados como nome, nota, duração da animação, se foi assistido ou não e nome do avaliador.
 
