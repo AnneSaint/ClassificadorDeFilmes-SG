@@ -46,7 +46,8 @@ Desse modo, após você selecionar e preencher todas os dados necessários e ape
 
 Ao apertar o botão "Excluir", aparecerá uma caixa de diálogo pedindo a confirmação do ato. Logo após, outra janela pedirá a escrita do nome da animação que deseja excluir.
 
-
+![Excluir passo 1](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/exclui1.png)
+![Excluir passo 2](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/excluir2.png)
 
 Outro recurso apresentado no projeto é a possibilidade de editar a tabela de filmes por _____
 
