@@ -14,6 +14,8 @@ Por isso, oa intuito do meu projeto é, por meio do programa QT Creator, criar u
 
 Na tela inicial "Avaliação" você poderá selecionar o filme que for ser avaliado e preencher os dados sobre a nota para o filme, pelo gênero que o avaliador pensa ser mais apropriado para a animação selecionada, a quantidade de minutos assistidos de cada filme, se foi assistido por completo e o nome do avaliador da vez.
 
+
+
 O usuário selecionará o nome da animação que deseja avaliar no primeiro bloco do projeto (comboBox):
 
 
