@@ -15,14 +15,17 @@ Por isso, o intuito do meu projeto é, por meio do programa QT Creator, criar um
 Na tela inicial "Avaliação" você poderá selecionar o filme que for ser avaliado e preencher os dados sobre a nota para o filme, pelo gênero que o avaliador pensa ser mais apropriado para a animação selecionada, a quantidade de minutos assistidos de cada filme, se foi assistido por completo e o nome do avaliador da vez.
 
 telaInicial![enter image description here](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/Captura%20de%20Tela%20%28181%29.png)
+
 O usuário selecionará o nome da animação que deseja avaliar no primeiro bloco do projeto (comboBox):
 
 ![Selecão Da Animação](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/anima%C3%A7ao.png)
 
 
+
 Após isso, é necessário selecionar a nota que o usuário acha satisfatória para a animação escolhida no espaço separado (lineEdit):
 
 ![Seleção de Nota](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/nota.png)
+
 
 Na caixa de seleção, deve ser escolhido o gênero que acha mais apropriado:
 
