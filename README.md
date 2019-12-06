@@ -1,5 +1,4 @@
 # Classificador De Filmes - Studio Ghibli
-# Classificador De Filmes - Studio Ghibli
 
 
 ## Amimações Japonesas
@@ -18,8 +17,12 @@ Na tela inicial "Avaliação" você poderá selecionar o filme que for ser avali
 telaInicial![enter image description here](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/Captura%20de%20Tela%20%28181%29.png)
 O usuário selecionará o nome da animação que deseja avaliar no primeiro bloco do projeto (comboBox):
 
+![Selecão Da Animação](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/anima%C3%A7ao.png)
+
 
 Após isso, é necessário selecionar a nota que o usuário acha satisfatória para a animação escolhida no espaço separado (lineEdit):
+
+![Seleção de Nota](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/nota.png)
 
 Na caixa de seleção, deve ser escolhido o gênero que acha mais apropriado:
 
@@ -48,3 +51,6 @@ No canto superior esquerdo da tela, o usuário terá em mãos dois recursos impo
 Na segunda janela é nos apresentado a janela de "Estatísticas" que mostra os seguintes aspectos:
 -> Tempo gasto, em minutos, assistindo as animações;
 -> Quantidade de animações assistidas;
+
+
+ 
