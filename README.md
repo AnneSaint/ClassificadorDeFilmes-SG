@@ -8,7 +8,7 @@
   
  [ghibi](http://cinematecando.com.br/wp-content/uploads/2016/11/there-s-an-incredible-hidden-message-in-spirited-away-and-it-will-shock-you.jpg)
  
-Por isso, o intuito do meu projeto é, por meio do programa QT Creator, criar um registro pessoal da lista de filmes do Stduio Ghibli que serão cadastrados dados como nome, nota, duração da animação, se foi assistido ou não e nome do avaliador.
+Por isso, oa intuito do meu projeto é, por meio do programa QT Creator, criar um registro pessoal da lista de filmes do Stduio Ghibli que serão cadastrados dados como nome, nota, duração da animação, se foi assistido ou não e nome do avaliador.
 
 # Como funciona?
 
