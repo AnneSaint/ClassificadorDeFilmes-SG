@@ -79,7 +79,7 @@ Na segunda janela é nos apresentado a janela de "Estatísticas" que mostra para
 
 # Até mais!!!
 
-![tchau](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/there-s-an-incredible-hidden-message-in-spirited-away-and-it-will-shock-you.jpg)
+![tchau](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/atemais.jpg)
 
 
  
