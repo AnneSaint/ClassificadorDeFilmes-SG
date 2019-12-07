@@ -74,7 +74,7 @@ Na segunda janela é nos apresentado a janela de "Estatísticas" que mostra os s
 
 ![Estatísticas](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/estatisticas.png)
 
-#Pronto, a partir desse programa tornar-se-á mais fácil a administração de filmes assistidos pelo usuário!!
+# Pronto, a partir desse programa tornar-se-á mais fácil a administração de filmes assistidos pelo usuário!!
 
 
  
