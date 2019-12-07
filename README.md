@@ -69,8 +69,7 @@ No canto superior esquerdo da tela, o usuário terá em mãos dois recursos impo
 
 # Estatísticas
 
-Na segunda janela é nos apresentado a janela de "Estatísticas" que mostra os seguintes aspectos:
--> Tempo gasto, em minutos, assistindo as animações;
+Na segunda janela é nos apresentado a janela de "Estatísticas" que mostra para o usuário o tempo gasto, em minutos, assistindo as animações;
 
 ![Estatísticas](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/estatisticas.png)
 
