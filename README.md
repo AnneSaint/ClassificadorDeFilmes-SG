@@ -73,11 +73,11 @@ Na segunda janela é nos apresentado a janela de "Estatísticas" que mostra para
 
 ![Estatísticas](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/estatisticas.png)
 
-# Pronto, a partir desse programa tornar-se-á mais fácil a administração de filmes assistidos pelo usuário!!
+## Pronto, a partir desse programa tornar-se-á mais fácil a administração de filmes assistidos pelo usuário!!
 
-# Muito Obrigado pela atenção ao ler manual! Agora divirta-se utilizando o programa e organizando suas animações favoritas do Studio Ghibli!
+## Muito Obrigado pela atenção ao ler manual! Agora divirta-se utilizando o programa e organizando suas animações favoritas do Studio Ghibli!
 
-# Até mais!!!
+## Até mais!!!
 
 ![tchau](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/atemais.jpg)
 
