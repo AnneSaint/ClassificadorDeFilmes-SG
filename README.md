@@ -49,9 +49,17 @@ Ao apertar o botão "Excluir", aparecerá uma caixa de diálogo pedindo a confir
 ![Excluir passo 1](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/exclui1.png)
 ![Excluir passo 2](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/excluir2.png)
 
-Outro recurso apresentado no projeto é a possibilidade de editar a tabela de filmes por _____
+Outro recurso apresentado no projeto é a possibilidade de editar a tabela de filmes pelo nome da Animação apertando o botão "Editar" e logo após confirmar sua ação.
 
+O primeiro passo é digitar o nome da animação que o usuário deseja editar na caixa de diálogo:
 
+Imagem
+
+AVISO: Caso não queira editar um dos itens apresentados apenas selecione a opção OK e deixe a caixa de diálogo em branco.
+
+![imagem 1](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/editar1.png)
+![imagem 2](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/editar2.png)
+ 
 No canto superior esquerdo da tela, o usuário terá em mãos dois recursos importantes do programa. Em clicar em "Arquivo", terá duas opções a serem selecionadas. Na aba "Salvar" (ou apertando em Ctrl + S) será salvo os dados inseridos em um arquivo Por fim, na aba "Carregar" (ou apertando em Ctrl + L) o usuário pode carregar os dados salvos de outrora apenas selecionando o arquivo.
 
 ![Carregar e Salvar](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/ctrlsl.png)
@@ -61,10 +69,9 @@ No canto superior esquerdo da tela, o usuário terá em mãos dois recursos impo
 # Estatísticas
 
 Na segunda janela é nos apresentado a janela de "Estatísticas" que mostra os seguintes aspectos:
-
 -> Tempo gasto, em minutos, assistindo as animações;
 
--> Quantidade de animações assistidas;
+![Estatísticas](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/estatisticas.png)
 
 
  
