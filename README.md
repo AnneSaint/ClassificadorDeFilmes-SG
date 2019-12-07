@@ -53,12 +53,11 @@ Outro recurso apresentado no projeto é a possibilidade de editar a tabela de fi
 
 O primeiro passo é digitar o nome da animação que o usuário deseja editar na caixa de diálogo:
 
-Imagem
-
-AVISO: Caso não queira editar um dos itens apresentados apenas selecione a opção OK e deixe a caixa de diálogo em branco.
 
 ![imagem 1](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/editar1.png)
 ![imagem 2](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/editar2.png)
+
+AVISO: Caso não queira editar um dos itens apresentados apenas selecione a opção OK e deixe a caixa de diálogo em branco.
  
 No canto superior esquerdo da tela, o usuário terá em mãos dois recursos importantes do programa. Em clicar em "Arquivo", terá duas opções a serem selecionadas. Na aba "Salvar" (ou apertando em Ctrl + S) será salvo os dados inseridos em um arquivo Por fim, na aba "Carregar" (ou apertando em Ctrl + L) o usuário pode carregar os dados salvos de outrora apenas selecionando o arquivo.
 
