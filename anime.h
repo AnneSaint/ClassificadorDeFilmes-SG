@@ -32,8 +32,6 @@ public:
 
 
 
-
-
 private:
     QString animacao;
     QString genero;
