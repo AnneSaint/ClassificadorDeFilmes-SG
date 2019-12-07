@@ -75,5 +75,12 @@ Na segunda janela é nos apresentado a janela de "Estatísticas" que mostra para
 
 # Pronto, a partir desse programa tornar-se-á mais fácil a administração de filmes assistidos pelo usuário!!
 
+# Muito Obrigado pela atenção ao ler manual!
+# Divirta-se utilizando o programa e organizando suas animações favoritas do Studio Ghibli!
+
+# Até mais!!!
+
+![tchau]()
+
 
  
