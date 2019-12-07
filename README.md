@@ -37,7 +37,7 @@ Em "Avaliador", é necessário colocar o nome do usuário que está avaliando:
 E por fim, seleciona-se se foi assistido o filme por completo em "sim" ou "não":
 !["Sim ou Não"](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/simounao.png)
 
-Desse modo, após você selecionar e preencher todas os dados necessários e apertar o botão "Inserir Dados" será mostrado na tabela e após os dados preenchidos na espaços anteriores irão se apagar para um novo cadastro.
+Desse modo, após você selecionar e preencher todas os dados necessários e apertar o botão "Inserir Avaliação" será mostrado na tabela e após os dados preenchidos na espaços anteriores irão se apagar para um novo cadastro.
 
 ![Tabela](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/tabelafinal.png)
 
@@ -69,7 +69,7 @@ No canto superior esquerdo da tela, o usuário terá em mãos dois recursos impo
 
 # Estatísticas
 
-Na segunda janela é nos apresentado a janela de "Estatísticas" que mostra para o usuário o tempo gasto, em minutos, assistindo as animações;
+Na segunda janela é nos apresentado a janela de "Estatísticas" que mostra para o usuário o tempo gasto, em minutos, assistindo as animações:
 
 ![Estatísticas](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/estatisticas.png)
 
