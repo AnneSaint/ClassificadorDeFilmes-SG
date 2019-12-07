@@ -471,7 +471,7 @@ background-color: rgb(85, 170, 255);</string>
        </rect>
       </property>
      </widget>
-     <widget class="QWidget" name="">
+     <widget class="QWidget" name="layoutWidget">
       <property name="geometry">
        <rect>
         <x>370</x>
@@ -510,7 +510,7 @@ background-color: rgb(85, 170, 255);</string>
        </item>
       </layout>
      </widget>
-     <widget class="QWidget" name="">
+     <widget class="QWidget" name="layoutWidget">
       <property name="geometry">
        <rect>
         <x>610</x>
@@ -555,6 +555,19 @@ background-color: rgb(85, 170, 255);</string>
         </widget>
        </item>
       </layout>
+     </widget>
+     <widget class="QPushButton" name="btnEdit">
+      <property name="geometry">
+       <rect>
+        <x>690</x>
+        <y>450</y>
+        <width>75</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Editar</string>
+      </property>
      </widget>
     </widget>
     <widget class="QWidget" name="tab_2">
@@ -606,44 +619,52 @@ background-color: rgb(85, 170, 255);</string>
        <string>Dados Gerais</string>
       </property>
      </widget>
+     <widget class="QLabel" name="labelDura">
+      <property name="geometry">
+       <rect>
+        <x>260</x>
+        <y>270</y>
+        <width>297</width>
+        <height>33</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>20</pointsize>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color: rgb(255, 255, 255);</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
      <widget class="QWidget" name="">
       <property name="geometry">
        <rect>
-        <x>30</x>
-        <y>80</y>
-        <width>265</width>
-        <height>83</height>
+        <x>260</x>
+        <y>100</y>
+        <width>299</width>
+        <height>156</height>
        </rect>
       </property>
-      <layout class="QHBoxLayout" name="horizontalLayout_4">
+      <layout class="QVBoxLayout" name="verticalLayout">
        <item>
         <widget class="QLabel" name="label_14">
          <property name="font">
           <font>
            <family>DejaVu Math TeX Gyre</family>
-           <pointsize>14</pointsize>
+           <pointsize>20</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
           </font>
          </property>
          <property name="styleSheet">
           <string notr="true">color: rgb(255, 255, 255);</string>
          </property>
          <property name="text">
-          <string>Minutos Assistidos :</string>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QLabel" name="labelDura">
-         <property name="font">
-          <font>
-           <pointsize>11</pointsize>
-          </font>
-         </property>
-         <property name="styleSheet">
-          <string notr="true">color: rgb(255, 255, 255);</string>
-         </property>
-         <property name="text">
-          <string/>
+          <string>Minutos Assistidos </string>
          </property>
         </widget>
        </item>
@@ -676,10 +697,16 @@ background-color: rgb(85, 170, 255);</string>
    <property name="text">
     <string>Carregar</string>
    </property>
+   <property name="shortcut">
+    <string>Ctrl+L</string>
+   </property>
   </action>
   <action name="actionSalvar">
    <property name="text">
     <string>Salvar</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+S</string>
    </property>
   </action>
  </widget>
