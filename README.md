@@ -8,7 +8,7 @@
   
   ![Animações](https://github.com/AnneSaint/ClassificadorDeFilmes-SG/blob/master/Prints/d34c9ebb7d71b13abc19e64c865728ab.jpg)
  
-Por isso, o intuito do meu projeto é, por meio do programa QT Creator, criar um registro pessoal da lista de filmes do Stduio Ghibli que serão cadastrados dados como nome, nota, duração da animação, se foi assistido ou não e nome do avaliador.
+Por isso, o intuito do meu projeto é, por meio do programa QT Creator, criar um registro pessoal da lista de filmes do Stduio Ghibli que serão cadastrados dados como nome, nota, duração da animação, se foi assistido por completo ou não e nome do avaliador.
 
 # Como funciona?
 
