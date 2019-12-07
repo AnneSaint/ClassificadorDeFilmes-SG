@@ -7,6 +7,8 @@
 #include <algorithm>
 #include <QFile>
 #include <QFileDialog>
+#include <QDialog>
+#include <QInputDialog>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
@@ -26,6 +28,7 @@ public:
     int size();
     QVector<Anime> filmes;
     Anime anime;
+
 private slots:
     void on_pushButton_2_clicked();
 
@@ -59,6 +62,15 @@ private slots:
     void on_actionSalvar_triggered();
 
     void on_actionCarregar_triggered();
+
+    void on_tabelaFilmes_cellDoubleClicked(int row, int column);
+
+    void on_btnEdit_clicked();
+
+    void editar(QString txt, QString Animcao,QString nota,QString duracao, QString genero,QString assistido, QString Avaliador, QVector<Anime> &ordem);
+
+
+
 
 private:
     Ui::MainWindow *ui;
