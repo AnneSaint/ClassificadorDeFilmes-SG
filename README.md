@@ -52,7 +52,9 @@ Ao apertar o botão "Excluir", aparecerá uma caixa de diálogo pedindo a confir
 Outro recurso apresentado no projeto é a possibilidade de editar a tabela de filmes por _____
 
 
-No canto superior esquerdo da tela, o usuário terá em mãos dois recursos importantes do programa. Em cliquar em "Arquivo", terá duas opcções a serem selecionadas. Na aba "Salvar" será salvo os dados inseridos em um arquivo Por fim, na aba "Carregar" o usuário pode carregar os dados salvos de outrora apenas selecionando o arquivo.
+No canto superior esquerdo da tela, o usuário terá em mãos dois recursos importantes do programa. Em cliquar em "Arquivo", terá duas opcções a serem selecionadas. Na aba "Salvar" (ou apertando em Ctrl + S) será salvo os dados inseridos em um arquivo Por fim, na aba "Carregar" (ou apertando em Ctrl + L) o usuário pode carregar os dados salvos de outrora apenas selecionando o arquivo.
+
+![Ctrl + S & Ctrl + L](%28ou%20apertando%20em%20Ctrl%20+%20S%29)
 
 
 
@@ -61,6 +63,7 @@ No canto superior esquerdo da tela, o usuário terá em mãos dois recursos impo
 Na segunda janela é nos apresentado a janela de "Estatísticas" que mostra os seguintes aspectos:
 
 -> Tempo gasto, em minutos, assistindo as animações;
+
 -> Quantidade de animações assistidas;
 
 
