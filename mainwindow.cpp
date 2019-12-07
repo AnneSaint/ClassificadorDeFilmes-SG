@@ -110,16 +110,8 @@ void MainWindow::on_btnApagar_clicked()
             inserirNaTabela(filmes[i], i);
         }
 
-
-
-
-
-
-
-
     }
 }
-
 
 
 void MainWindow::on_comboOrdenar_activated(const QString &arg1)
@@ -130,6 +122,7 @@ void MainWindow::on_comboOrdenar_activated(const QString &arg1)
         ordenarPorGenero();
     }
 }
+
 
 void MainWindow::ordenarPorAnimacao()
 {
@@ -148,6 +141,7 @@ void MainWindow::ordenarPorAnimacao()
     }
 
 }
+
 
 void MainWindow::ordenarPorGenero()
 {
@@ -198,6 +192,7 @@ void MainWindow::carregarDados(QString file)
     arquivo.close();
 }
 
+
 void MainWindow::salvarDados(QString file)
 {
     QFile arq(file);
@@ -217,6 +212,7 @@ void MainWindow::on_actionSalvar_triggered()
     salvarDados(temp);
 }
 
+
 void MainWindow::on_actionCarregar_triggered()
 {
     QString temp;
@@ -227,4 +223,48 @@ void MainWindow::on_actionCarregar_triggered()
         ui->tabelaFilmes->insertRow(i);
         inserirNaTabela(filmes[i], i);
     }
+}
+
+
+void MainWindow::editar(QString txt, QString Animcao, QString nota, QString duracao, QString genero, QString assistido, QString Avaliador, QVector<Anime> &ordem)
+{
+    for (int i =0; i <ordem.size(); i++){
+        if (ordem[i].getAnimacao() == txt){
+
+            if (Animcao != "") filmes[i].setAnimacao(Animcao);
+            if (nota != "") filmes[i].setNota(nota.toDouble());
+            if (duracao != "") filmes[i].setTempo(duracao.toDouble());
+            if (genero != "") filmes[i].setGenero(genero);
+            if (assistido != "") filmes[i].setAssistido(assistido);
+            if (Avaliador != "") filmes[i].setAvaliador(Avaliador);
+        }
+    }
+
+}
+
+
+void MainWindow::on_btnEdit_clicked()
+{
+
+
+    QMessageBox::StandardButton resp = QMessageBox::question(this, "Editar Itens", "Você deseja editar um item?");
+    if(resp == QMessageBox::Yes){
+            bool ok;
+            QString txt = QInputDialog::getText(this, "Editar Itens", "Digite o título da Animação que deseja editar!", QLineEdit::Normal,"",&ok);
+            QMessageBox::warning(this, "Alerta", "Se você não quiser editar algum item, apenas selecione a opção OK :3");
+            QString Animacao = QInputDialog::getText(this, "Editar Itens", "Insira o novo Título", QLineEdit::Normal,"",&ok);
+            QString nota = QInputDialog::getText(this, "Editar Itens", " Insira uma nova Nota", QLineEdit::Normal,"",&ok);
+            QString duracao = QInputDialog::getText(this, "Editar Itens", "Insira outra Duração", QLineEdit::Normal,"",&ok);
+            QString genero = QInputDialog::getText(this, "Editar Itens", "Insira outro Gênero", QLineEdit::Normal,"",&ok);
+            QString assistido = QInputDialog::getText(this, "Editar Itens", "Você já tinha assistido?\nSim ou Não?", QLineEdit::Normal,"",&ok);
+            QString avaliador = QInputDialog::getText(this, "Editar Itens", "Modifique o nome do Avaliador", QLineEdit::Normal,"",&ok);
+
+
+            editar(txt, Animacao, nota, duracao, genero, assistido, avaliador, filmes );
+
+            qDebug()<<genero;
+
+            for(int i=0;i<filmes.size();i++)inserirNaTabela(filmes[i],i);
+    }
+
 }
